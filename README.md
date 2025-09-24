@@ -11,10 +11,10 @@ You can compile and run it directly using `javac` and `java`.
 Download the project and unzip it:
 
 ```bash
-unzip LMS_NoDeps.zip -d LMS_NoDeps
+unzip Library_Management_System_AirTribeP1.zip -d Library_Management_System_AirTribeP1
 ```
 ```bash
-cd LMS_NoDeps/src
+cd Library_Management_System_AirTribeP1/src
 ```
 ### 2️⃣ Compile the Project
 Run the following command from the src folder:
@@ -50,7 +50,7 @@ You will see the interactive console UI start up, with options to:
 ## 📂 Project Structure
 ```bash
 
-LMS_NoDeps/
+Library_Management_System_AirTribeP1/
 ├─ src/
 │  └─ com/example/lms/
 │     ├─ App.java                 # Entry point
