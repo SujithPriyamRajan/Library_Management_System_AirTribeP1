@@ -1,0 +1,4 @@
+BOOK|0099|Harry Potter|J.K. Rowling
+GENRE|Fantasy
+COPY|CP-0001|Central|AVAILABLE
+BOOK|2209|Kaka|gvm
